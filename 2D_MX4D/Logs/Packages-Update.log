@@ -58,3 +58,35 @@ The following packages were 更新済:
   com.unity.test-framework をバージョン 1.1.31 から 1.1.33 へ
   com.unity.timeline をバージョン 1.6.4 から 1.7.6 へ
   com.unity.visualscripting をバージョン 1.8.0 から 1.9.1 へ
+
+=== Sat Mar 23 21:41:00 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 更新済:
+  com.unity.ads をバージョン 3.4.4 から 4.4.2 へ
+  com.unity.analytics をバージョン 3.3.5 から 3.8.1 へ
+  com.unity.collab-proxy をバージョン 1.2.16 から 2.2.0 へ
+  com.unity.ide.rider をバージョン 1.1.4 から 3.0.27 へ
+  com.unity.ide.vscode をバージョン 1.2.0 から 1.2.5 へ
+  com.unity.purchasing をバージョン 2.0.6 から 4.9.3 へ
+  com.unity.test-framework をバージョン 1.1.14 から 1.1.33 へ
+  com.unity.textmeshpro をバージョン 2.0.1 から 3.0.6 へ
+  com.unity.timeline をバージョン 1.2.14 から 1.7.6 へ
+  com.unity.xr.legacyinputhelpers をバージョン 2.0.2 から 2.1.10 へ
+The following packages were 削除済:
+  com.unity.multiplayer-hlapi@1.0.4
+
+=== Sat Mar 23 21:41:00 2024
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were 追加済:
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.ads@4.4.2
+  com.unity.analytics@3.8.1
+  com.unity.purchasing@4.9.3
+  com.unity.xr.legacyinputhelpers@2.1.10
