@@ -42,3 +42,19 @@ The following packages were 更新済:
   com.unity.ide.rider をバージョン 3.0.16 から 3.0.18 へ
   com.unity.ide.visualstudio をバージョン 2.0.16 から 2.0.17 へ
   com.unity.visualscripting をバージョン 1.7.8 から 1.8.0 へ
+
+=== Sat Mar 23 21:04:18 2024
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were 追加済:
+  com.unity.ai.navigation@1.1.5
+The following packages were 更新済:
+  com.unity.collab-proxy をバージョン 2.0.0 から 2.2.0 へ
+  com.unity.feature.2d をバージョン 1.0.0 から 2.0.0 へ
+  com.unity.ide.rider をバージョン 3.0.18 から 3.0.27 へ
+  com.unity.ide.visualstudio をバージョン 2.0.17 から 2.0.22 へ
+  com.unity.test-framework をバージョン 1.1.31 から 1.1.33 へ
+  com.unity.timeline をバージョン 1.6.4 から 1.7.6 へ
+  com.unity.visualscripting をバージョン 1.8.0 から 1.9.1 へ
